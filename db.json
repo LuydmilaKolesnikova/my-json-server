@@ -1,0 +1,259 @@
+{
+  "register": {
+    "id": 12,
+    "login": "Lujdmila22354",
+    "email": "Lujdmila-Kolomna@yandex.ru",
+    "password": "9999999990"
+  },
+  "auth": {
+    "id": 1,
+    "email": "Lujdmila-Kolomna@yandex.ru",
+    "password": "5555"
+  },
+  "users": [
+    {
+      "id": 1,
+      "profileData": {
+        "name": "Luydmila",
+        "address": "Kolomna, Russia",
+        "photo": ""
+      },
+      "statistics": {
+        "posts": 14,
+        "followers": 121,
+        "following": 54
+      },
+      "newActions": {
+        "followfeed": 4,
+        "messages": 5,
+        "notifications": 6
+      },
+      "dashboard": {
+        "postViews": {
+          "number": 353,
+          "procent": 14
+        },
+        "upvotes": {
+          "number": 253,
+          "procent": 12
+        },
+        "comments": {
+          "number": 1555,
+          "procent": 66
+        },
+        "profileViews": {
+          "number": 1003,
+          "procent": 103
+        },
+        "pieChart": {
+          "allVisitors": 20,
+          "os": [
+            {
+              "osName": "Makintosh",
+              "count": 1
+            },
+            {
+              "osName": "Windows",
+              "count": 5
+            },
+            {
+              "osName": "Android",
+              "count": 10
+            },
+            {
+              "osName": "iOS",
+              "count": 4
+            }
+          ]
+        },
+        "graphChart": {
+          "views": [
+            {
+              "month": "Jan",
+              "count": 5
+            },
+            {
+              "month": "Feb",
+              "count": 7
+            },
+            {
+              "month": "Mar",
+              "count": 14
+            },
+            {
+              "month": "Apr",
+              "count": 20
+            },
+            {
+              "month": "May",
+              "count": 35
+            },
+            {
+              "month": "Jun",
+              "count": 38
+            },
+            {
+              "month": "Jul",
+              "count": 36
+            },
+            {
+              "month": "Aug",
+              "count": 41
+            },
+            {
+              "month": "Sep",
+              "count": 34
+            },
+            {
+              "month": "Oct",
+              "count": 36
+            },
+            {
+              "month": "Nov",
+              "count": 45
+            },
+            {
+              "month": "Dec",
+              "count": 27
+            }
+          ]
+        },
+        "userSignup": {
+          "users": [
+            {
+              "name": "Isaiah Brewr",
+              "email": "noah_kessler@rogahn.biz",
+              "time": "4 min ago",
+              "role": "Contributor"
+            },
+            {
+              "name": "Tyler Tucker",
+              "email": "zemlak.tate@lakin.us",
+              "time": "20 min ago",
+              "role": "Subscriber"
+            },
+            {
+              "name": "Chad Peterson",
+              "email": "royal_turcotte@bernier.biz",
+              "time": "1h ago",
+              "role": "Moderator"
+            },
+            {
+              "name": "Mathilda Sutton",
+              "email": "kirlin.agustin@gmail.com",
+              "time": "2h ago",
+              "role": "Admin"
+            },
+            {
+              "name": "Lucas Hampton",
+              "email": "labadie_maryse@dawn.org",
+              "time": "3h ago",
+              "role": "Moderator"
+            },
+            {
+              "name": "Harold Robbins",
+              "email": "harold_robbins@dawn.org",
+              "time": "4h ago",
+              "role": "Subscriber"
+            }
+          ]
+        },
+        "postProgress": {
+          "posts": [
+            {
+              "category": "Video Posts",
+              "procent": "45%",
+              "classname": "VideoPosts"
+            },
+            {
+              "category": "Open Lists",
+              "procent": "90%",
+              "classname": "OpenLists"
+            },
+            {
+              "category": "Normal Blog Posts",
+              "procent": "70%",
+              "classname": "NormalBlogPosts"
+            },
+            {
+              "category": "Audio Posts",
+              "procent": "20%",
+              "classname": "AudioPosts"
+            },
+            {
+              "category": "Images & Videos",
+              "procent": "5%",
+              "classname": "ImagesVideos"
+            }
+          ]
+        },
+        "lineGraph": {
+          "points": [
+            [
+              14,
+              2013
+            ],
+            [
+              17,
+              2014
+            ],
+            [
+              21,
+              2015
+            ],
+            [
+              33,
+              2016
+            ],
+            [
+              32,
+              2017
+            ],
+            [
+              48,
+              2018
+            ],
+            [
+              49,
+              2019
+            ],
+            [
+              54,
+              2020
+            ],
+            [
+              62,
+              2021
+            ],
+            [
+              63,
+              2022
+            ],
+            [
+              64,
+              2023
+            ]
+          ]
+        }
+      }
+    },
+    {
+      "id": 2,
+      "profileData": {
+        "name": "Luydmila_2000",
+        "address": "Kolomna, Russia_2000",
+        "photo": ""
+      },
+      "statistics": {
+        "posts": 14,
+        "followers": 121,
+        "following": 54
+      },
+      "newActions": {
+        "followfeed": 1,
+        "messages": 2,
+        "notifications": 3
+      }
+    }
+  ]
+}
